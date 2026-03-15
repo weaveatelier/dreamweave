@@ -1,4 +1,6 @@
-![DreamWeave logo](assets/dreamweave_logo.png)
+<p align="left">
+  <img src="assets/dreamweave_logo.png" alt="DreamWeave logo" width="160" />
+</p>
 
 # DreamWeave
 
